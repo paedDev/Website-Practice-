@@ -3,7 +3,11 @@ import React from 'react'
 function Header() {
   return (
     <>
-        <div className='text-gray-500'>
+        <div className='text-gray-500 bg-gradient-to-r from-white to-gray-300'>
+
+            {/* circle for design */}
+            
+            
             <div className='container mx-auto flex justify-between px-6 lg:px-0 py-6'>
              {/* left header */}
                 <div className='space-x-4 flex items-center'>
