@@ -8,7 +8,7 @@ function Header() {
             {/* circle for design */}
             
             
-            <div className='container mx-auto flex justify-between px-6 lg:px-0 py-6'>
+            <div className='container mx-auto flex justify-between px-6 lg:px-0 py-6 '>
              {/* left header */}
                 <div className='space-x-4 flex items-center'>
                     <a href="#" className='font-bold text-2xl text-gray-600'>Beginner Tailwind</a>
