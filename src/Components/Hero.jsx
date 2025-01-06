@@ -4,6 +4,8 @@ function Hero() {
   return (
     <>
         <div className='bg-gradient-to-r from-white to-gray-300 relative '>/
+
+           
             {/* left circle decoration  */}
             <div className='absolute top-0 left-0 transform -translate-y-20 -translate-x-32'>
                   <div className='bg-gradient-to-br from-red-100 to-red-300 h-64 w-64 absolute rounded-full top-0 ml-10 opacity-20 '></div>
@@ -15,6 +17,7 @@ function Hero() {
                     <div className='bg-gradient-to-br from-teal-100 to-teal-300 h-64 w-64 absolute rounded-full top-0 ml-40 opacity-20 hidden lg:block'></div>
                     <div className='bg-gradient-to-br from-purple-100 to-purple-300 h-64 w-64 absolute rounded-full top-0 mt-14 ml-24 opacity-20 hidden lg:block'></div>
             </div>
+
             <div className='absolute bottom-0 h-64 bg-purple-600 inset-x-0'>
 
             </div>
@@ -24,7 +27,7 @@ function Hero() {
 
             {/* heading */}
             <h1 className='mb-4 font-extrabold text-5xl lg:text-6xl p-3'>
-                <span className='bg-gradient-to-r from-teal-400 to-teal-500 bg-clip-text text-transparent'>Beginner </span>
+                <span className='bg-gradient-to-r from-teal-400 to-teal-500 bg-clip-text text-transparent'> Unnie </span>
                 <span className='bg-gradient-to-r from-teal-400 to-purple-500 bg-clip-text text-transparent'>Tailwind</span>
             </h1>
 
