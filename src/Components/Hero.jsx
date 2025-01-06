@@ -15,7 +15,9 @@ function Hero() {
                     <div className='bg-gradient-to-br from-teal-100 to-teal-300 h-64 w-64 absolute rounded-full top-0 ml-40 opacity-20 hidden lg:block'></div>
                     <div className='bg-gradient-to-br from-purple-100 to-purple-300 h-64 w-64 absolute rounded-full top-0 mt-14 ml-24 opacity-20 hidden lg:block'></div>
             </div>
-          
+            <div className='absolute bottom-0 h-64 bg-purple-600 inset-x-0'>
+
+            </div>
           
 
             <div className='container mx-auto px-6 lg:px-0 text-center py-24 relative'>
@@ -36,12 +38,13 @@ function Hero() {
             <div className='relative'>
                  <img src="https://i.imgur.com/wysbBMS.png" alt="Teaser Image"className='rounded-lg shadow-2xl border-4 border-purple-400' />
 
-                  <div className='lg:absolute top-0 right-0 lg:trasform lg:translate-x-4 lg:-translate-y-4 bg-yellow-50 border-t-2 border-yellow-500 p-3 text-sm text-left shadow-lg text-yellow-600 py-4 px-8 mt-4 lg:mt-0 '>
+                  <div className='lg:absolute top-0 right-0 lg:trasform lg:translate-x-4 lg:-translate-y-4 bg-yellow-50 border-t-2 border-yellow-500 p-3 text-sm text-left shadow-lg text-yellow-600 py-4 px-8 mt-4 lg:mt-0'>
                     <p className=''><strong>We'll create BeginnerTailwind.com</strong><span className='opacity-50'>(it's the site you're on now)</span></p>
                     <p> We'll do it all without a single line of custom CSS!</p>
 
                   </div>
             </div>
+            
             </div>
         </div>
     
