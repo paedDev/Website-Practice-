@@ -15,7 +15,7 @@ function AboutMe() {
                             <p className='p-8 text-gray-700 text-lg'>
                                 I did a Build Your 1st Tailwind Site for Traversy Media on YouTube also.
                             </p>
-                            <iframe className="w-full rounded-b" height="315" src="https://www.youtube.com/embed/wEM5NdJ-8HY?si=yyVUaZ8vfvr4PnOx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <iframe className="w-full rounded-b" height="400" src="https://www.youtube.com/embed/wEM5NdJ-8HY?si=yyVUaZ8vfvr4PnOx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
                         </div>
                         {/* right video */}
@@ -23,7 +23,7 @@ function AboutMe() {
                             <p className='p-8 text-gray-700 text-lg '>
                                 This is a match up between Grizzlies and Warriors
                             </p>
-                            <iframe className="w-full rounded-b" height="315" src="https://www.youtube.com/embed/sAHEhFh35vE?si=K_AInWBAHKV0WKAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <iframe className="w-full rounded-b" height="400" src="https://www.youtube.com/embed/sAHEhFh35vE?si=K_AInWBAHKV0WKAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
