@@ -5,6 +5,7 @@ import AboutMe from "./Components/AboutMe"
 import WhatYoullLearn from "./Components/WhatYoullLearn"
 import Components from "./Components/Components"
 import Pricing from "./Components/Pricing"
+import Module from "./Components/Module"
 function App() {
 
 
@@ -17,6 +18,8 @@ function App() {
       <WhatYoullLearn />
       <Components />
       <Pricing />
+      <Module />
+
 
     </>
   )
