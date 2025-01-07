@@ -6,6 +6,7 @@ import WhatYoullLearn from "./Components/WhatYoullLearn"
 import Components from "./Components/Components"
 import Pricing from "./Components/Pricing"
 import Module from "./Components/Module"
+import Faq from "./Components/Faq"
 function App() {
 
 
@@ -19,6 +20,8 @@ function App() {
       <Components />
       <Pricing />
       <Module />
+      <Faq />
+
 
 
     </>
